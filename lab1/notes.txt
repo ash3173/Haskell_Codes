@@ -1,0 +1,2 @@
+Functions:
+-sqrt: for finding square root of a number[qn6]

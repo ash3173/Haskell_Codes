@@ -1,0 +1,4 @@
+Functions:
+-- getChar: to get a character input
+-- toUpper: to capitalize[import Data.Char(toUpper)]   [qn11]
+-- ord: to get ascii of a character[import Data.Char(ord)]  [qn12]
